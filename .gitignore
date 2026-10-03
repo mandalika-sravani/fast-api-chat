@@ -1,0 +1,19 @@
+# Secrets (never commit API keys)
+.env
+
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local databases
+*.db
+
+# Temporary test files
+body.json
+
+# Editor settings
+.vscode/
